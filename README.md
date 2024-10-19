@@ -10,12 +10,11 @@ Espero que disfrutéis del contenido.
 
 ## Certificaciones
 
-![badge](https://github.com/user-attachments/assets/341130e9-d6ed-42a4-805d-a12822087ee9)     
+https://certs.ine.com/c0c300a8-f50d-4e35-9f39-a148f600a7e8#gs.gbxv6n
 
-![badge](https://github.com/user-attachments/assets/1a745ec8-0e2f-4f91-9f04-46b9c3fdfcd9)
 
 ## Cursos
 
 
 
-![ccna-introduction-to-networks (1)](https://github.com/user-attachments/assets/d4da214d-39e1-417b-b1f9-4892ec0549f1)
+
