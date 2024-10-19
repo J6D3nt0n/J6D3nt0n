@@ -10,10 +10,11 @@ Espero que disfrutéis del contenido.
 
 ## Certificaciones
 
-<img src="https://certs.ine.com/c0c300a8-f50d-4e35-9f39-a148f600a7e8" width="150" height="150" >
+<img src="[https://certs.ine.com/c0c300a8-f50d-4e35-9f39-a148f600a7e8](https://github.com/user-attachments/assets/9ae93d51-c4b4-4a57-b2ac-5c6117bbc45a)" width="150" height="150" >
 
 <img src="[https://github.com/user-attachments/assets/6eb77a50-8c3e-4f48-9d42-739ef8c49993]" width="150" height="150" >
 
+![badge]()
 
 
 ## Cursos
