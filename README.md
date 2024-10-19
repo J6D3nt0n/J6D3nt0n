@@ -7,3 +7,14 @@ Es un mundo nuevo que me ha enganchado desde el minuto uno y que disfruto como e
 Iré publicando de forma resumida mis apuntes de todo lo que voy aprendiendo y las herramientas que utilizo. 
 
 Espero que disfrutéis del contenido.
+
+## Certificaciones
+
+![badge](https://github.com/user-attachments/assets/341130e9-d6ed-42a4-805d-a12822087ee9)     
+
+![badge](https://github.com/user-attachments/assets/1a745ec8-0e2f-4f91-9f04-46b9c3fdfcd9)
+
+## Cursos
+
+![ccna-introduction-to-networks](https://github.com/user-attachments/assets/89d9520e-cc68-48b1-928d-d799148aaa46)
+
