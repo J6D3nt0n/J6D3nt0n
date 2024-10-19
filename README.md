@@ -10,7 +10,7 @@ Espero que disfrutéis del contenido.
 
 ## Certificaciones
 
-<img src="[https://your-image-url.type](https://github.com/user-attachments/assets/94e8e952-bfc1-4df2-901c-06f07720b782)" width="100" height="100" >
+<img src="https://github.com/user-attachments/assets/94e8e952-bfc1-4df2-901c-06f07720b782" width="100" height="100" >
 
 https://certs.ine.com/c0c300a8-f50d-4e35-9f39-a148f600a7e8#gs.gbxv6n
 
