@@ -16,5 +16,6 @@ Espero que disfrutéis del contenido.
 
 ## Cursos
 
-![ccna-introduction-to-networks](https://github.com/user-attachments/assets/89d9520e-cc68-48b1-928d-d799148aaa46)
 
+
+![ccna-introduction-to-networks (1)](https://github.com/user-attachments/assets/d4da214d-39e1-417b-b1f9-4892ec0549f1)
