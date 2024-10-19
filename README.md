@@ -10,9 +10,10 @@ Espero que disfrutéis del contenido.
 
 ## Certificaciones
 
-<img src="https://github.com/user-attachments/assets/94e8e952-bfc1-4df2-901c-06f07720b782" width="150" height="150" >
+<img src="[https://github.com/user-attachments/assets/94e8e952-bfc1-4df2-901c-06f07720b782](https://certs.ine.com/c0c300a8-f50d-4e35-9f39-a148f600a7e8)" width="150" height="150" >
 
-<img src="https://github.com/user-attachments/assets/6eb77a50-8c3e-4f48-9d42-739ef8c49993" width="150" height="150" >
+<img src="[https://github.com/user-attachments/assets/6eb77a50-8c3e-4f48-9d42-739ef8c49993]" width="150" height="150" >
+
 
 
 ## Cursos
