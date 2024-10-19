@@ -16,7 +16,7 @@ Espero que disfrutéis del contenido.
 
 ## Cursos
 
-<img src="https://github.com/user-attachments/assets/899ace67-d5f1-4c05-a7aa-f92fb2030b79" width="150" height="150" >
+<img src="https://github.com/user-attachments/assets/8dbe8a6a-9449-47d5-b4f1-14d2c2986ec7" width="150" height="150" >
 
 <img src="https://github.com/user-attachments/assets/cb5c8941-6cf7-4c0c-ba71-20e9fd782166" width="150" height="150" >  
 
