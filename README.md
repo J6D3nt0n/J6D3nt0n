@@ -12,10 +12,11 @@ Espero que disfrutéis del contenido.
 
 <img src="https://github.com/user-attachments/assets/94e8e952-bfc1-4df2-901c-06f07720b782" width="150" height="150" >
 
-
+<img src="https://github.com/user-attachments/assets/6eb77a50-8c3e-4f48-9d42-739ef8c49993" width="150" height="150" >
 
 
 ## Cursos
+
 
 
 
