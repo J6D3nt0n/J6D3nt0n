@@ -17,6 +17,19 @@ Espero que disfrutéis del contenido.
 
 ## Cursos
 
+<img src="https://github.com/user-attachments/assets/cb5c8941-6cf7-4c0c-ba71-20e9fd782166" width="150" height="150" >
+
+<img src="https://github.com/user-attachments/assets/2f2ff8f8-b283-4832-bd16-ee4ec3bd7cfb" width="150" height="150" >
+
+<img src="https://github.com/user-attachments/assets/8d00d37c-acff-43eb-9533-0f756345d984" width="150" height="150" >
+
+<img src="https://github.com/user-attachments/assets/b94eee4f-1725-4ae6-a594-5620ea88ba5b" width="150" height="150" >
+
+<img src="https://github.com/user-attachments/assets/1c95bf51-c4c2-428c-9fbe-97def357c5e8" width="150" height="150" >
+
+<img src="https://github.com/user-attachments/assets/f06d8b48-510e-46f8-9da7-3bb60bfb04b7" width="150" height="150" >
+
+<img src="https://github.com/user-attachments/assets/2a456727-c307-405d-8fc0-d7f3aa9e7c51" width="150" height="150" >
 
 
 
