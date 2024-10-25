@@ -42,7 +42,7 @@ Espero que disfrutéis del contenido.
     
     - Ataque a aplicaciones móviles: análisis estático y análisis dinámico (MobSF)
     
-    - Ataques redes Wireless (Aircrack-ng, Wifite)
+    - Ataques a redes Wireless (Aircrack-ng, Wifite)
     
     - Ataques de explotación, Elevación, Persistencia, Evasión de Defensas y Movimientos Laterales (Metasploit, Msfvenom)
 
