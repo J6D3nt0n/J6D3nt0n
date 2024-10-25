@@ -14,9 +14,35 @@ Espero que disfrutéis del contenido.
 
 <img src="https://github.com/user-attachments/assets/6eb77a50-8c3e-4f48-9d42-739ef8c49993" width="170" height="170" >
 
-## Cursos
+## Bootcamp en Ciberseguridad
 
 <img src="https://github.com/user-attachments/assets/8dbe8a6a-9449-47d5-b4f1-14d2c2986ec7" width="150" height="150" >
+
+500h teórico-práctico de ciberseguridad
+
+  Conocimientos fundamentales:
+    - Hardware y Sistemas Operativos
+    - Programación
+    - Redes
+    - Criptografía
+    - Seguridad informática
+
+  Red Team:
+    - Análisis del objetivo: OSINT (Shodan, Maltego, Spiderfoot)
+    - Análisis de vulnerabilidades (Nmap, Nessus, OpenVAS)
+    - Ataque a aplicaciones web: captura de tráfico (Wireshark, Burp Suite), command injection, XSS (XSstrike), SQL injection (SQL Map)
+    - Ataque a aplicaciones móviles: análisis estático y análisis dinámico (MobSF)
+    - Ataques redes Wireless (Aircrack-ng, Wifite)
+    - Ataques de explotación, Elevación, Persistencia, Evasión de Defensas y Movimientos Laterales (Metasploit framework, Msfvenom)
+
+  Blue Team:
+    - Protección de Activos: Monitorización y Hardening, Seguridad Perimetral (Pfsence, Snort, Suricata)
+    - Gestión de Ciberincidentes: Cyber Kill Chain
+    - Análisis Forense (Volatility, FKT Imager, Recuba)
+    - Análisis de malware: Análisis estático (PE Studio, Portex Analyzer) y Análisis Dinámico (ANY.RUN)
+    - Sistemas de Información de Seguridad y Gestión de eventos: SIEM (IBM Qradar)
+
+## Cursos
 
 <img src="https://github.com/user-attachments/assets/cb5c8941-6cf7-4c0c-ba71-20e9fd782166" width="150" height="150" >  
 
