@@ -44,7 +44,7 @@ Espero que disfrutéis del contenido.
     
     - Ataques redes Wireless (Aircrack-ng, Wifite)
     
-    - Ataques de explotación, Elevación, Persistencia, Evasión de Defensas y Movimientos Laterales (Metasploit framework, Msfvenom)
+    - Ataques de explotación, Elevación, Persistencia, Evasión de Defensas y Movimientos Laterales (Metasploit, Msfvenom)
 
   Blue Team:
   
