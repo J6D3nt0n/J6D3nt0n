@@ -18,7 +18,8 @@ Espero que disfrutéis del contenido.
 
 <img src="https://github.com/user-attachments/assets/8dbe8a6a-9449-47d5-b4f1-14d2c2986ec7" width="150" height="150" >
 
-500h teórico-práctico de ciberseguridad
+
+500h Teórico-práctico de ciberseguridad
 
   * Conocimientos fundamentales:
   
