@@ -20,7 +20,7 @@ Espero que disfrutéis del contenido.
 
 500h teórico-práctico de ciberseguridad
 
-  Conocimientos fundamentales:
+  * Conocimientos fundamentales:
   
     - Hardware y Sistemas Operativos
 
@@ -32,7 +32,7 @@ Espero que disfrutéis del contenido.
     
     - Seguridad informática
 
-  Red Team:
+  * Red Team:
   
     - Análisis del objetivo: OSINT (Shodan, Maltego, Spiderfoot)
     
@@ -46,7 +46,7 @@ Espero que disfrutéis del contenido.
     
     - Ataques de explotación, Elevación, Persistencia, Evasión de Defensas y Movimientos Laterales (Metasploit, Msfvenom)
 
-  Blue Team:
+  * Blue Team:
   
     - Protección de Activos: Monitorización y Hardening, Seguridad Perimetral (Pfsence, Snort, Suricata)
     
