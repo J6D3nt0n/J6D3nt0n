@@ -16,6 +16,7 @@ Espero que disfrutéis del contenido.
 
 <img src="https://github.com/user-attachments/assets/8dbe8a6a-9449-47d5-b4f1-14d2c2986ec7" width="150" height="150" >
 
+<img src="https://github.com/user-attachments/assets/d18ae500-39de-4096-a2ac-fc77e8c0e631" width="150" height="150" >
 
 500h Teórico-práctico de ciberseguridad
 
