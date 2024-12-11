@@ -56,7 +56,7 @@ Espero que disfrutéis del contenido.
 
 * Conocimientos fundamentales:
 
- - Administrar identidades y gobernanza de Azure
+    - Administrar identidades y gobernanza de Azure
  - Implementar y administrar el almacenamiento de Azure
  - Implementación y administración de recursos de proceso de Azure
  - Implementación y administración de redes virtuales de Azure
