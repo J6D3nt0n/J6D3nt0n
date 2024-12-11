@@ -54,7 +54,7 @@ Espero que disfrutéis del contenido.
 
 120 Horas teórico-prácticas
 
-- Conocimientos fundamentales:
+* Conocimientos fundamentales:
 
  - Administrar identidades y gobernanza de Azure
  - Implementar y administrar el almacenamiento de Azure
@@ -63,7 +63,7 @@ Espero que disfrutéis del contenido.
  - Supervisión y mantenimiento de recursos de Azure
  - Hacer copias de seguridad, compartir datos, y monitorizar la solución.
 
-- Configuración:
+* Configuración:
 
  - Microsoft Entra ID
  - Cuentas de usuario y de grupo
