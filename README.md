@@ -57,43 +57,43 @@ Espero que disfrutéis del contenido.
 * Conocimientos fundamentales:
 
     - Administrar identidades y gobernanza de Azure
- - Implementar y administrar el almacenamiento de Azure
- - Implementación y administración de recursos de proceso de Azure
- - Implementación y administración de redes virtuales de Azure
- - Supervisión y mantenimiento de recursos de Azure
- - Hacer copias de seguridad, compartir datos, y monitorizar la solución.
+    - Implementar y administrar el almacenamiento de Azure
+    - Implementación y administración de recursos de proceso de Azure
+    - Implementación y administración de redes virtuales de Azure
+    - Supervisión y mantenimiento de recursos de Azure
+    - Hacer copias de seguridad, compartir datos, y monitorizar la solución.
 
 * Configuración:
 
- - Microsoft Entra ID
- - Cuentas de usuario y de grupo
- - Suscripciones
- - Azure Policy
- - Permisos RBAC
- - Azure Resource Manager
- - Redes Virtuales
- - Grupos de Seguridad de Red (NSG)
- - Azure Firewall
- - Azure DNS
- - Emparejamiento de Azure Virtual Network (Peering)
- - Azure VPN Gateway
- - Azure ExpressRoute
- - Azure Virtual WAN
- - Enrutamiento de red y de puntos de conexión
- - Azure Load Balancer
- - Azure Application Gateway
- - Azure Storage account
- - Azure Blob Storage
- - Azure Files y Azure File Sync
- - Máquinas Virtuales
- - Azure App Service
- - Azure Container Instances
- - Azure Kubernetes Service
- - Backup
- - Azure Monitor
- - Activity Log
- - Log Analytics
- - Network Watcher
+    - Microsoft Entra ID
+    - Cuentas de usuario y de grupo
+    - Suscripciones
+    - Azure Policy
+    - Permisos RBAC
+    - Azure Resource Manager
+    - Redes Virtuales
+    - Grupos de Seguridad de Red (NSG)
+    - Azure Firewall
+    - Azure DNS
+    - Emparejamiento de Azure Virtual Network (Peering)
+    - Azure VPN Gateway
+    - Azure ExpressRoute
+    - Azure Virtual WAN
+    - Enrutamiento de red y de puntos de conexión
+    - Azure Load Balancer
+    - Azure Application Gateway
+    - Azure Storage account
+    - Azure Blob Storage
+    - Azure Files y Azure File Sync
+    - Máquinas Virtuales
+    - Azure App Service
+    - Azure Container Instances
+    - Azure Kubernetes Service
+    - Backup
+    - Azure Monitor
+    - Activity Log
+    - Log Analytics
+    - Network Watcher
 
 ## Cursos
 
