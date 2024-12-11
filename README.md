@@ -12,9 +12,9 @@ Espero que disfrutéis del contenido.
 
 ## Certificaciones
 
-<img src="https://github.com/user-attachments/assets/a8ed54ff-93e3-40a6-a35a-4e7b022e4730" width="170" height="170" >
+<img src="https://github.com/user-attachments/assets/a8ed54ff-93e3-40a6-a35a-4e7b022e4730" width="180" height="180" >
 
-<img src="https://github.com/user-attachments/assets/d18ae500-39de-4096-a2ac-fc77e8c0e631" width="170" height="170" >
+<img src="https://github.com/user-attachments/assets/d18ae500-39de-4096-a2ac-fc77e8c0e631" width="180" height="180" >
 
 <img src="https://github.com/user-attachments/assets/e929ee38-a561-4269-a70c-21af422b322c" width="170" height="170" >
 
