@@ -27,39 +27,26 @@ Espero que disfrutéis del contenido.
   * Conocimientos fundamentales:
   
     - Hardware y Sistemas Operativos
-
     - Programación
-    
     - Redes
-    
     - Criptografía
-    
     - Seguridad informática
 
   * Red Team:
   
     - Análisis del objetivo: OSINT (Shodan, Maltego, Spiderfoot)
-    
     - Análisis de vulnerabilidades (Nmap, Nessus, OpenVAS)
-    
     - Ataque a aplicaciones web: captura de tráfico (Wireshark, Burp Suite), command injection, XSS (XSstrike), SQL injection (SQL Map)
-    
     - Ataque a aplicaciones móviles: análisis estático y análisis dinámico (MobSF)
-    
     - Ataques a redes Wireless (Aircrack-ng, Wifite)
-    
     - Ataques de explotación, Elevación, Persistencia, Evasión de Defensas y Movimientos Laterales (Metasploit, Msfvenom)
 
   * Blue Team:
   
     - Protección de Activos: Monitorización y Hardening, Seguridad Perimetral (Pfsence, Snort, Suricata)
-    
     - Gestión de Ciberincidentes: Cyber Kill Chain
-    
     - Análisis Forense (Volatility, FKT Imager, Recuba)
-    
     - Análisis de malware: Análisis estático (PE Studio, Portex Analyzer) y Análisis Dinámico (ANY.RUN)
-    
     - Sistemas de Información de Seguridad y Gestión de eventos: SIEM (IBM Qradar)
 
 
