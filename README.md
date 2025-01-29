@@ -36,7 +36,7 @@ Espero que disfrutéis del contenido.
   
     - Análisis del objetivo: OSINT (Shodan, Maltego, Spiderfoot)
     - Análisis de vulnerabilidades (Nmap, Nessus, OpenVAS)
-    - Ataque a aplicaciones web: captura de tráfico (Wireshark, Burp Suite), command injection, XSS (XSstrike), SQL injection (SQL Map)
+    - Ataque a aplicaciones web: captura de tráfico (Wireshark, Burp Suite, Owaspzap), command injection, XSS (XSstrike), SQL injection (SQL Map)
     - Ataque a aplicaciones móviles: análisis estático y análisis dinámico (MobSF)
     - Ataques a redes Wireless (Aircrack-ng, Wifite)
     - Ataques de explotación, Elevación, Persistencia, Evasión de Defensas y Movimientos Laterales (Metasploit, Msfvenom)
