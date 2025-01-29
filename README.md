@@ -2,9 +2,12 @@
 
 💻 Actualmente me encuentro realizando formación intensiva en materia de 🔐 Ciberseguridad y trabajando en mis propios proyectos.
 
-Es un mundo nuevo que me ha enganchado desde el minuto uno y que disfruto como el que más, tanto en 🔴 Red Team como en 🔵 Blue team. He realizado un bootcamp en Ciberseguridad y me estoy sacando varias certificaciones que me parecen importantes. 
+Es un mundo nuevo que me ha enganchado desde el minuto uno y que disfruto como el que más, tanto en 🔴 Red Team como en 🔵 Blue team ya que los dos se complementan muy bien.
+En formación he realizado un bootcamp en Ciberseguridad, un curso de Azure y me estoy sacando varias certificaciones que me parecen claves en la actualidad.
 
 Estoy en posesión de una certificación de Pentester: eJPT y dos de Computación en la nube: ICCA y Azure Administrator Associate.
+(Estoy preparándome para la eWPT)
+
 
 Iré publicando de forma resumida mis apuntes de todo lo que voy aprendiendo y las herramientas que utilizo. 
 
