@@ -1,17 +1,13 @@
 ## Hola, mi nombre es Víctor👋
+💻 Actualmente estoy inmerso en una formación intensiva en el fascinante mundo de la 🔐 Ciberseguridad y, además, trabajando en mis propios proyectos.
 
-💻 Actualmente me encuentro realizando formación intensiva en materia de 🔐 Ciberseguridad y trabajando en mis propios proyectos.
+Desde el primer momento, este campo me ha apasionado, y disfruto enormemente tanto con el 🔴 Red Team como con el 🔵 Blue Team, ya que ambos se complementan de manera perfecta. En mi formación, he completado un bootcamp en Ciberseguridad y un curso de Azure, y estoy obteniendo diversas certificaciones que considero esenciales hoy en día.
 
-Es un mundo nuevo que me ha enganchado desde el minuto uno y que disfruto como el que más, tanto en 🔴 Red Team como en 🔵 Blue team ya que los dos se complementan muy bien.
-En formación he realizado un bootcamp en Ciberseguridad, un curso de Azure y me estoy sacando varias certificaciones que me parecen claves en la actualidad.
+Poseo la certificación de Pentester (eJPT) y dos certificaciones en Computación en la Nube: ICCA y Azure Administrator Associate. Actualmente, me estoy preparando para la certificación eWPT.
 
-Estoy en posesión de una certificación de Pentester: eJPT y dos de Computación en la nube: ICCA y Azure Administrator Associate.
-(Estoy preparándome para la eWPT)
+Iré compartiendo de forma resumida mis apuntes sobre todo lo que voy aprendiendo y las herramientas que utilizo.
 
-
-Iré publicando de forma resumida mis apuntes de todo lo que voy aprendiendo y las herramientas que utilizo. 
-
-Espero que disfrutéis del contenido.
+El contenido de estos apuntes está destinado a un uso responsable y a fines educativos. Espero que disfruten del contenido.
 
 ## Certificaciones
 
