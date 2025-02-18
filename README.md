@@ -1,7 +1,7 @@
 ## Hola, mi nombre es J6D3nt0n👋
 💻 Actualmente estoy inmerso en una formación intensiva en el fascinante mundo de la 🔐 Ciberseguridad y, además, trabajando en mis propios proyectos.
 
-Desde el primer momento, este campo me ha apasionado, y disfruto enormemente tanto con el 🔴 Red Team como con el 🔵 Blue Team, ya que ambos se complementan de manera perfecta. En mi formación, he completado un bootcamp en Ciberseguridad y un curso de Azure, y estoy obteniendo diversas certificaciones que considero esenciales hoy en día.
+Desde el primer momento, este campo me ha apasionado, y disfruto enormemente tanto con el 🔴 Red Team como con el 🔵 Blue Team y estoy obteniendo diversas certificaciones que considero esenciales hoy en día.
 
 Poseo la certificación de Pentester (eJPT) y dos certificaciones en Computación en la Nube: ICCA y Azure Administrator Associate. Actualmente, me estoy preparando para la certificación eWPT.
 
