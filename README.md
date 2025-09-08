@@ -1,5 +1,5 @@
 ## Hola, mi nombre es J6D3nt0n👋
-💻 Actualmente estoy inmerso en una formación intensiva en el fascinante mundo de la 🔐 Ciberseguridad y, además, trabajando en mis propios proyectos.
+💻 Actualmente estoy inmerso en una formación intensiva en el fascinante mundo de la 🔐 Ciberseguridad y estoy trabajando en mis propios proyectos.
 
 Desde el primer momento, este campo me ha apasionado, y disfruto enormemente tanto con el 🔴 Red Team como con el 🔵 Blue Team y estoy obteniendo diversas certificaciones que considero esenciales hoy en día.
 
