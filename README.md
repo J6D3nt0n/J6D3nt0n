@@ -3,8 +3,6 @@
 
 Desde el primer momento, este campo me ha apasionado, y disfruto enormemente tanto con el 🔴 Red Team como con el 🔵 Blue Team y estoy obteniendo diversas certificaciones que considero esenciales hoy en día.
 
-Poseo la certificación de Pentester (eJPT) y dos certificaciones en Computación en la Nube: ICCA y Azure Administrator Associate. Actualmente, me estoy preparando para la certificación eWPT.
-
 Iré compartiendo de forma resumida mis apuntes sobre todo lo que voy aprendiendo y las herramientas que utilizo.
 
 El contenido de estos apuntes está destinado a un uso responsable y a fines educativos. Espero que disfruten del contenido.
