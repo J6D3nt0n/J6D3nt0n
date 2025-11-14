@@ -15,6 +15,6 @@ El contenido de estos apuntes está destinado a un uso responsable y a fines edu
 
 <img src="https://github.com/user-attachments/assets/2fd19e92-6975-4ee5-aced-311621f32897" width="170" height="170" >
 
-<img src="https://github.com/user-attachments/assets/eee16edb-1cce-426a-8ace-b48efd3384c2" width="170" height="170" >
+<img src="https://github.com/user-attachments/assets/eee16edb-1cce-426a-8ace-b48efd3384c2" width="160" height="160" >
 
-<img src="https://github.com/user-attachments/assets/106c0dd6-6282-4c58-9347-bd12d8410c3d" width="170" height="170" >
+<img src="https://github.com/user-attachments/assets/106c0dd6-6282-4c58-9347-bd12d8410c3d" width="160" height="160" >
